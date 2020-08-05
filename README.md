@@ -8,4 +8,4 @@
 
 #### Stats are created with the github-readme-stats app by Anurag Hazra (https://github.com/anuraghazra)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jethet&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/api/top-langs?username=jethet&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
