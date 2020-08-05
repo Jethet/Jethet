@@ -11,3 +11,5 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jethet&count_private=true&include_all_commits&show_icons=true&theme=cobalt)](https://github.com/jethet/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=jethet&show_icons=true&theme=cobalt)](https://github.com/jethet/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jethet&repo=project-elevador)](https://github.com/anuraghazra/github-readme-stats
