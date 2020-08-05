@@ -6,7 +6,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: coding@60
 
-#### Stats are created with the github-readme-stats app by Anurag Hazra (https://github.com/anuraghazra)
+
+#### Stats created with the github-readme-stats app by Anurag Hazra (https://github.com/anuraghazra)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jethet&show_icons=true&theme=cobalt)](https://github.com/jethet/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=jethet&show_icons=true&theme=cobalt)](https://github.com/jethet/github-readme-stats)
