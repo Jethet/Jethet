@@ -1,4 +1,4 @@
-### Hello, this is the profile page of Jet
+### This is the profile page of Jet
 
 - 🔭 I’m currently working on my project Information for Inspiration
 - 🌱 I’m currently learning more about React
