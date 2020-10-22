@@ -1,6 +1,6 @@
 ### This is the profile page of Jethet
 
-- 🔭 I’m currently working on my project Information for Inspiration
+- 🔭 I’m currently working on my project Information for Inspiration and following tutorials on building backend/frontend and deploying to Heroku
 - 🌱 I’m currently learning more about React
 - 👯 I’m an instructor and project manager at ![Migracode](https://migracode.openculturalcenter.org)
 - 👯 I am managing the CodeWomen and the CodeBuddies project at Migracode
