@@ -3,7 +3,7 @@
 - 🔭 I am currently working on my project Information for Inspiration and following tutorials on building backend/frontend and deploying to Heroku
 - 🌱 I am currently learning more about React, React Hooks and Redux
 - 👯 I am an instructor and project manager at ![Migracode](https://migracode.openculturalcenter.org)
-- 👯 I am responsible for the CodeWomen and the CodeBuddies projects at Migracode
+- 👯 I am responsible for the CodeWomen and CodeBuddies projects at Migracode
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: founder, director and single member of coding@60
 
