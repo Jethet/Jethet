@@ -1,7 +1,7 @@
 ### This is the profile page of Jethet
 
 - 🔭 I am currently working on my project Information for Inspiration and following tutorials on building backend/frontend and deploying to Heroku
-- 🌱 I am currently learning more about React, React Hooks and React Bootstrap
+- 🌱 I am currently learning more about React, especially React Hooks, and about PostgreSQL
 - 👯 I am an instructor and project manager at ![Migracode](https://migracode.openculturalcenter.org)
 - 👯 I am responsible for the CodeWomen and CodeBuddies projects and I am a member of the Syllabus Team and Classes Team at Migracode
 - 😄 Pronouns: she/her
