@@ -1,6 +1,6 @@
 ### This is the profile page of Jethet
 
-- 🔭 I am currently working on a few personal projects: my InformationInspiration app, a small game, an app for favourite BCN pictures, and a library app called BoundlessBooks. For the first and last project, I am also following tutorials on building backend/frontend and deploying to Heroku.
+- 🔭 I am currently working on a few personal projects: my InformationInspiration app, a small game, and a library app called BoundlessBooks. For the first and last project, I am also involved in an open source project to build an audio tour app for a charity
 - :raising_hand: I am creating various small projects for the monthly **CodeWomen** coding sessions, for students to work on
 - 🌱 I am currently learning more about React, especially React Hooks, and about PostgreSQL
 - :computer: I am an instructor and project manager at ![Migracode](https://migracode.openculturalcenter.org)
