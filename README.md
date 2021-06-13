@@ -1,9 +1,9 @@
 ### This is the profile page of Jethet
 
 - 🔭 I am currently working on a few personal projects: my InformationInspiration app, a memory game app, and a library app called BoundlessBooks. I am also involved in an open source project to build an audio tour app for a charity
-- :raising_hand: I am creating various small projects for the monthly ![**CodeWomen**](https://migracode.openculturalcenter.org/codewomen) coding sessions, for students to work on. These projects aim to offer challenges to starting students, more advanced students and graduates.
+- :raising_hand: I am creating various small projects for the monthly [CodeWomen](https://migracode.openculturalcenter.org/codewomen) coding sessions, for students to work on. These projects aim to offer challenges to starting students, more advanced students and graduates.
 - 🌱 I am currently learning more about React, especially React Hooks, and about deploying a project with a database
-- :computer: I am an instructor and project manager at ![Migracode](https://migracode.openculturalcenter.org)
+- :computer: I am an instructor and project manager at [Migracode](https://migracode.openculturalcenter.org)
 - 👯 I am responsible for the **CodeWomen** and **CodeBuddies** projects and I am a member of the Syllabus Team and Classes Team at Migracode
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: founder, director and single member of coding@60
