@@ -4,7 +4,7 @@
 - :raising_hand: I am creating various small projects for the monthly [CodeWomen](https://migracode.openculturalcenter.org/codewomen) coding sessions, for students to work on. These projects aim to offer challenges to starting students, more advanced students and graduates.
 - 🌱 I am currently learning more about React, especially React Hooks, and about deploying a project with a database
 - :computer: I am an instructor and project manager at [Migracode](https://migracode.openculturalcenter.org)
-- 👯 In addition, I am responsible for the **CodeWomen** ([have a look at the [GitHub organisation](https://github.com/CodeWomen-Barcelona)) and **CodeBuddies** projects and I am a member of the Syllabus Team at Migracode
+- 👯 In addition, I am responsible for the **CodeWomen** (have a look at the 💪 👩🏽‍💻 [CodeWomen GitHub organisation](https://github.com/CodeWomen-Barcelona)  👩‍💻 🔥) and **CodeBuddies** projects and I am a member of the Syllabus Team at Migracode
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: founder, director and single member of coding@60
 
