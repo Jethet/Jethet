@@ -1,7 +1,7 @@
 ### This is the profile page of Jethet
 
 - 🔭 I am currently working on a few personal projects: my InformationInspiration app, a memory game app, and a library app called BoundlessBooks. 
-- :raising_hand: I am creating various small projects for the monthly [CodeWomen](https://migracode.openculturalcenter.org/codewomen) coding sessions, for students to work on. These projects aim to offer challenges to starting students, more advanced students and graduates.
+- :raising_hand: I am creating various small projects and other teaching material for the monthly [CodeWomen](https://migracode.openculturalcenter.org/codewomen) coding sessions, for students to work on. These projects aim to offer challenges to starting students, more advanced students and graduates.
 - 🌱 I am currently learning more about React, especially React Hooks, and about deploying a project with a database
 - :computer: I am an instructor and project manager at [Migracode](https://migracode.openculturalcenter.org)
 - 👯 In addition, I am responsible for the **CodeWomen** project (have a look at the 💪 👩🏽‍💻 [CodeWomen GitHub organisation](https://github.com/CodeWomen-Barcelona) 👩‍💻 🔥). I also manage the **CodeBuddies** project and I am a member of the Syllabus Team at Migracode
