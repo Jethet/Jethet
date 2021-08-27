@@ -1,6 +1,7 @@
 ### This is the profile page of Jethet
 
-- 🔭 I am currently working on a few personal projects: my InformationInspiration app, a memory game app, and a library app called BoundlessBooks. 
+- 🔭 I am currently working on a few personal projects: my InformationInspiration React app, and a library app called BoundlessBooks.
+- 👩‍💻 💪 My most recent projects are memory game app called [Memory Crunch](https://jethet-memory-game.netlify.app/), deployed on Netlify and an app for [Unexpected Chats](https://jethet-memory-game.netlify.app/), when you are bored or just want to talk to someone ... something
 - :raising_hand: I am creating various small projects and other teaching material for the monthly [CodeWomen](https://migracode.openculturalcenter.org/codewomen) coding sessions, for students to work on. These projects aim to offer challenges to starting students, more advanced students and graduates.
 - 🌱 I am currently learning more about React, especially React Hooks, and about deploying a project with a database
 - :computer: I am an instructor and project manager at [Migracode](https://migracode.openculturalcenter.org)
