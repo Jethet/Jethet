@@ -1,6 +1,6 @@
 ### This is the profile page of Jethet
 
-- 🔭 I am currently working on a few personal projects: my InformationInspiration React app, and a library app called BoundlessBooks.
+- 🔭 I am currently working on a few personal projects: my InformationInspiration React app, and a library app called BoundlessBooks. I am also (of course) building the tic-tac-toe game: one version in the terminal, and one version with React. The terminal version uses prompt to get input from the console and use this in the game dynamically.
 - 👩‍💻 💪 My most recent projects are: a memory game app called [Memory Crunch](https://jethet-memory-game.netlify.app/), built with React and deployed on Netlify, and an app for [Unexpected Chats](https://jethet-funny-chat.netlify.app/), when you are bored or just want to talk to someone ... something. This was built with vanilla JS.
 - :raising_hand: I am creating various small projects and other teaching material for the monthly [CodeWomen](https://migracode.openculturalcenter.org/codewomen) coding sessions, for students to work on. These projects aim to offer challenges to starting students, more advanced students and graduates.
 - 🌱 I am currently learning more about React, especially React Hooks, and about deploying a project with a database
