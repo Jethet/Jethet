@@ -1,6 +1,6 @@
 ### This is the profile page of Jethet
 
-- 🔭 I have been working on a few personal projects with JavaScript/React. Currently, I have returned to my first love and started to refresh my Python skills with some simple projects.
+- 🔭 I have been working on a few personal projects with JavaScript/React. Currently, I have returned to my first love and started to refresh my Python skills with some simple projects, diving into Pygame.
 - 🔥 My 2021 Hacktoberfest contribution: I contributed to the open source Women Who've Changed Tech 👩‍💻 project. This open source project aims to collect and share the history of Female Tech Pioneers, building a website and API to make this information freely available.
 - 👩‍💻 💪 My most recent projects are: a memory game app called [Memory Crunch](https://jethet-memory-game.netlify.app/), built with React and deployed on Netlify, and an app for [Unexpected Chats](https://jethet-unexpected-chat-app.netlify.app/), for when you are bored or just want to talk to someone ... something. This was built with vanilla JS and also deployed on Netlify.
 - :raising_hand: I am creating various small projects and other teaching material for the monthly [CodeWomen](https://migracode.openculturalcenter.org/codewomen) coding sessions, for students to work on. These projects aim to offer challenges to starting students, more advanced students and graduates.
